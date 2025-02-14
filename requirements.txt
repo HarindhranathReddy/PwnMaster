@@ -1,0 +1,5 @@
+requests==2.32.3
+tqdm==4.67.1
+pyyaml
+colorama==0.4.4
+openai==0.27.0
